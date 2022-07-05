@@ -1,0 +1,20 @@
+{
+  "navigation": [
+    {
+        "slug": "about",
+        "title": "About"
+    },
+    {
+        "slug": "services",
+        "title": "Services"
+    },
+    {
+        "slug": "work",
+        "title": "Work"
+    },
+    {
+        "slug": "contact",
+        "title": "Contact"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+    "sections": [
+        {
+            "title": "Joda",
+            "type": "hero"
+        },
+        {
+            "title": "Obi",
+            "type": "card-grid"
+        },
+        {
+            "title": "Kenobi",
+            "type": "quote"
+        }
+    ]
+}
